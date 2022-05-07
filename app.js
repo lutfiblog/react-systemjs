@@ -36,6 +36,6 @@ class Main extends React.Component {
 
 
 ReactDOM.render(
-  <Main title="React" text="Caution: do not look into laser with remaining eye."></Main>,
+  <Main title="React" text="Cek ya mantap tidak"></Main>,
   document.getElementById('react-app')
 );
